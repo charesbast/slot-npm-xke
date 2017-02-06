@@ -1,0 +1,23 @@
+{
+  "name": "slot-npm-xke",
+  "version": "1.0.0",
+  "description": "Slot xke",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charesbast/slot-npm-xke.git"
+  },
+  "keywords": [
+    "slot",
+    "npm"
+  ],
+  "author": "Arthur & Bastien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charesbast/slot-npm-xke/issues"
+  },
+  "homepage": "https://github.com/charesbast/slot-npm-xke#readme"
+}
