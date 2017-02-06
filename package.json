@@ -1,0 +1,37 @@
+{
+  "name": "@username/slot-npm-xke",
+  "version": "1.0.0",
+  "description": "Slot XKE sur NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charesbast/slot-npm-xke.git"
+  },
+  "engines": {
+    "node": "6.2.2",
+    "npm": "2.15.5"
+  },
+  "cpu" : [ "x64", "ia32" ],
+  "os" : [ "darwin", "linux" ],
+  "contributors": [
+    {
+      "name": "Bastien Charez",
+      "email": "bcharez@xebia.fr"
+    },
+    {
+      "name": "Arthur Sudre",
+      "email": "asudre@xebia.fr"
+    }
+  ],
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charesbast/slot-npm-xke/issues",
+    "email" : "bcharez@xebia.fr"
+  },
+  "homepage": "https://github.com/charesbast/slot-npm-xke#readme"
+}
