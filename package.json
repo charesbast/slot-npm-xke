@@ -42,8 +42,5 @@
     "url": "https://github.com/charesbast/slot-npm-xke/issues",
     "email": "bcharez@xebia.fr"
   },
-  "homepage": "https://github.com/charesbast/slot-npm-xke#readme",
-  "dependencies": {
-    "lodash": "^4.17.4"
-  }
+  "homepage": "https://github.com/charesbast/slot-npm-xke#readme"
 }
