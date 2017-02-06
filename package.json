@@ -1,17 +1,14 @@
 {
   "name": "foo-project",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "ls": "npm ls --depth=0",
-
     "test": "echo \"Testing the project\"",
     "start": "echo \" tarting the project\"",
-
     "prepublish": "npm run build",
     "publish": "echo \"Publishing the project\"",
-
     "prebuild": "npm run test",
     "build": "npm run build-assets && npm run build-app",
     "build-app": "NODE_ENV=production echo \"Building the app for production env\"",
